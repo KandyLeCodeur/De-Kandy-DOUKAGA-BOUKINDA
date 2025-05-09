@@ -1,6 +1,6 @@
-# De-Kandy-DOUKAGA-BOUKINDA
+## Hi there 👋 I'm De Kandy DOUKAGA-BOUKINDA
 # 💫 About Me:
-Hi there 👋 I'm De Kandy DOUKAGA-BOUKINDA<br>Content de vous voir ici<br><br>Developpeur web former dans le cadre du projet D-clic de l'OIF<br><br>🚀 À propos de moi :<br>Bienvenue sur une partie de ma vie sur internet, je suis un apprentit Développeur et j'aspire à faire carrière dans le développement web on travaillant sur des projets à fort impact au Congo et dans le monde entier.<br><br>N'hésitez pas à prendre contact avec moi pour tout ce qui touche à la technologie ou pour dire bonjour ! Façonnons ensemble l'avenir de la tech. 🌟
+Content de vous voir ici<br><br>Developpeur web former dans le cadre du projet D-clic de l'OIF<br><br>🚀 À propos de moi :<br>Bienvenue sur une partie de ma vie sur internet, je suis un apprentit Développeur et j'aspire à faire carrière dans le développement web on travaillant sur des projets à fort impact au Congo et dans le monde entier.<br><br>N'hésitez pas à prendre contact avec moi pour tout ce qui touche à la technologie ou pour dire bonjour ! Façonnons ensemble l'avenir de la tech. 🌟
 
 
 ## 🌐 Socials:
